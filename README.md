@@ -75,11 +75,9 @@ connecting devices required a password to connect to the wireless network.</p>
 <div align="center">
   <img src="img/6.png" >
   <img src="img/7.png" >
-  <img src="img/8.png" >
-  <img src="img/9.png" >
-  <img src="img/10.png" >
-  
+  <img src="img/8.png" >  
 </div>
+<img src="img/9.png" >
 
 <p>And that is how, the complete network was properly connected and communications 
 between any of the complicated network's devices were established.

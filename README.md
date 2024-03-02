@@ -36,16 +36,25 @@ Elements which are used to make this network:
 network of routers was deployed to cover all six campuses as well as connect them 
 to a separate Server Room. Wi-Fi and wireless Access Points are also provided in 
 each campus through which other devices can connect to the network wirelessly.</p>
+<div align="center">
+  <img src="img/1.png" >
+</div>
 
 <p>Each Router has complex routing capabilities, allowing it to connect to any of the 
 other networks in the complex mesh. Six diagonals were connected, and routing 
 paths were set up through those diagonals. This provided extra security and mesh 
 endurance, as well as the capacity to route through different paths in the event that 
 one or more routers went down.</p>
+<div align="center">
+  <img src="img/2.png" >
+</div>
 
 <p>Here 5 server pools were used which is for DHCP, DNS and Web Server. All of 
 these servers were stored in a separate Server Room from the rest of the Campus 
 networks.</p>
+<div align="center">
+  <img src="img/3.png" >
+</div>
 
 <p>The DNS server was used so that all hosts may visit the Web Server's webpage using 
 the required web address rather than the Web Server's IP address.
@@ -53,12 +62,24 @@ The host PCs on each campus obtained their IP addresses dynamically from a singl
 DHCP server. It is also possible to add new hosts to the network without having to 
 manually assign IP addresses using this setup. DHCP also sent information about 
 the DNS server to the hosts.</p>
+<div align="center">
+  <img src="img/4.png" >
+  <img src="img/5.png" >
+</div>
 
 <p>The DHCP server was used to dynamically assign IP addresses to all hosts on the 
 six campuses, as well as the many Sub-Nets within each campus.
 Wireless connections were made possible by the presence of wireless Access Points 
 in each network. WEP encryption was used to secure the Access Points, and 
 connecting devices required a password to connect to the wireless network.</p>
+<div align="center">
+  <img src="img/6.png" >
+  <img src="img/7.png" >
+  <img src="img/8.png" >
+  <img src="img/9.png" >
+  <img src="img/10.png" >
+  
+</div>
 
 <p>And that is how, the complete network was properly connected and communications 
 between any of the complicated network's devices were established.

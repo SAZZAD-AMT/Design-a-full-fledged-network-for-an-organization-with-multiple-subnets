@@ -1,6 +1,6 @@
 # Design a full-fledged network for an organization with multiple subnets
 
-<h1>Abstract:
+<h4>Abstract: </h4>
 <p>The goal of this project was to have a thorough understanding of how a complex 
 mesh of networks functions. This project also provided me with insight into how a 
 sophisticated network architecture can be implemented in practice. Computer 

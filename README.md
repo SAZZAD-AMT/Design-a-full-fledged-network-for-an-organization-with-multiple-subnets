@@ -71,7 +71,7 @@ separate LAN.
 • Each of the Campus Networks now includes Sub-Nets.
 • The complex mesh was built with extra diagonal paths to ensure that other 
 communications do not suffer if one or more routers fail.
-Conclusion:
+<h4>Conclusion:</h4>
 This project can be determined that the standards for University of Professionals
 complicated network were mostly met. A more effective routing strategy could not 
 be adopted due to a lack of knowledge of sophisticated networking strategies and 
